@@ -2,6 +2,8 @@ Sample file create
 line 1
 line 2
 line 3
-Sample file appended
+Sample file edited
 added line 2 by anjali
 Rituja added a line!!!
+
+This is new line added

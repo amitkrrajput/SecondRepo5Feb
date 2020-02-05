@@ -7,4 +7,6 @@ added line 2 by anjali
 Rituja added a line!!!
 This is new line added
 Sample file create updated
+change1
+change2
 

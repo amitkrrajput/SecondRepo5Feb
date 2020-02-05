@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Sample file create
 line 1
 line 2
@@ -5,6 +6,8 @@ line 3
 Sample file edited
 added line 2 by anjali
 Rituja added a line!!!
-This is new line added
-Sample file create updated
 
+This is new line added
+=======
+Sample file create updated
+>>>>>>> develop
